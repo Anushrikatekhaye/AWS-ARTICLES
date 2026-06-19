@@ -1,6 +1,6 @@
 # AWS EC2 Blog Series
 
-🚀 **Getting Started with AWS EC2: A Complete Guide to Instance Deployment**
+🚀 **Getting Started with AWS EC2: A Complete Guide to Instance Deployment** 
 
 Learn how to launch and configure an AWS EC2 instance from scratch with this step-by-step guide.
 
